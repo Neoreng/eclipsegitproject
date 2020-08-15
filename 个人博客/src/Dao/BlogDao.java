@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 import entity.Blog;
 import jdbc.JdbcUtil;
-
+//hello
 public class BlogDao {
 	public static int publish(String title,String author,String type,String content) {
 		int result=-1;
