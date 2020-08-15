@@ -17,6 +17,7 @@
 <h1>社区</h1>
 <form action="${pageContext.request.contextPath}/CommunityServlet" class="type">
 <table>
+//123
 <tr>
 <td>类型
    <select name="type" class="publish-type">
