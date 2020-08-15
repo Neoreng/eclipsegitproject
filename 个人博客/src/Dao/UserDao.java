@@ -5,10 +5,9 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-//啊啊啊
 import entity.User;
 import jdbc.JdbcUtil;
-
+//hahha
 public class UserDao {
 	public static String find(String name) {
 		String result=null;
